@@ -7,7 +7,7 @@ sections:
     background_image: images/plant7-lg.jpg
     background_image_opacity: 65
     content: |
-      # &#xA;***houseplants***&#xA;&#xA;
+      # &#xA;***Нouseplants***&#xA;&#xA;
     actions:
       - title: See all items
         url: /store

@@ -15,8 +15,8 @@ export const query = graphql`
 `;
 
 export default class Home extends React.Component {
-    render() {https://www.youtube.com/watch?v=s9sZrzmhBEM
-        
+    render() {
+
         return (
             <Layout {...this.props}>
             <main className={'content' + (_.get(this.props, 'pageContext.frontmatter.page_css_class', null) ? (' ' + _.get(this.props, 'pageContext.frontmatter.page_css_class', null)) : '')}>

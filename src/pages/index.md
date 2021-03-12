@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/plant6-lg.jpg
+    background_image: images/plant7-lg.jpg
     background_image_opacity: 65
     content: >
       # RRReal, beautiful plants right to your door
